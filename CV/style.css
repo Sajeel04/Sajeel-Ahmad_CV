@@ -1,0 +1,52 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 40px;
+    
+}
+h2 {
+    color: black;
+    text-align:center;
+    font-size: 25px;
+    font-family: Verdana;
+}
+body{
+    background-color: #5CF0FF;
+}
+.text-align {
+    text-align: left;
+}
+a {
+    color: black;
+    text-decoration: none;
+    
+}
+.position-absolute {
+    position: absolute;
+}
+
+p {
+      text-align:center;
+      font-size: 25px;
+      font-family: 'Times New Roman', Times, serif;
+  }
+
+img {
+    width: "300";
+    height: "300";
+    position: relative;
+}  
+
+.left {
+    text-align: left;
+
+}
+li {
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
